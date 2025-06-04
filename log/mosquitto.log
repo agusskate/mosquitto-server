@@ -1,0 +1,1242 @@
+1747580582: mosquitto version 2.0.21 starting
+1747580582: Config loaded from /mosquitto/config/mosquitto.conf.
+1747580582: Opening ipv4 listen socket on port 1883.
+1747580582: Opening ipv6 listen socket on port 1883.
+1747580582: mosquitto version 2.0.21 running
+1747580610: New connection from 172.17.0.1:53910 on port 1883.
+1747580610: Client <unknown> disconnected due to protocol error.
+1747580610: New connection from 172.17.0.1:53924 on port 1883.
+1747580610: New connection from 172.17.0.1:53934 on port 1883.
+1747580612: Client <unknown> disconnected due to protocol error.
+1747580612: Client <unknown> disconnected due to protocol error.
+1747580612: New connection from 172.17.0.1:53942 on port 1883.
+1747580612: Client <unknown> disconnected due to protocol error.
+1747581288: New connection from 172.17.0.1:43308 on port 1883.
+1747581288: New client connected from 172.17.0.1:43308 as cliente01 (p5, c1, k60).
+1747581294: Client cliente01 disconnected.
+1747581307: New connection from 172.17.0.1:54848 on port 1883.
+1747581307: New client connected from 172.17.0.1:54848 as cliente01 (p5, c1, k60).
+1747581735: Client cliente01 has exceeded timeout, disconnecting.
+1747581739: New connection from 172.17.0.1:37658 on port 1883.
+1747581739: New client connected from 172.17.0.1:37658 as cliente01 (p5, c1, k60).
+1747582154: Client cliente01 has exceeded timeout, disconnecting.
+1747582158: New connection from 172.17.0.1:49284 on port 1883.
+1747582158: New client connected from 172.17.0.1:49284 as cliente01 (p5, c1, k60).
+1747582383: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747582530: New connection from 172.17.0.1:54934 on port 1883.
+1747582530: New client connected from 172.17.0.1:54934 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1747583730: Client cliente01 has exceeded timeout, disconnecting.
+1747583734: New connection from 172.17.0.1:33526 on port 1883.
+1747583734: New client connected from 172.17.0.1:33526 as cliente01 (p5, c1, k60).
+1747584134: Client cliente01 has exceeded timeout, disconnecting.
+1747584138: New connection from 172.17.0.1:49146 on port 1883.
+1747584138: New client connected from 172.17.0.1:49146 as cliente01 (p5, c1, k60).
+1747584184: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747584614: Client cliente01 has exceeded timeout, disconnecting.
+1747584618: New connection from 172.17.0.1:55894 on port 1883.
+1747584618: New client connected from 172.17.0.1:55894 as cliente01 (p5, c1, k60).
+1747585034: Client cliente01 has exceeded timeout, disconnecting.
+1747585038: New connection from 172.17.0.1:46356 on port 1883.
+1747585038: New client connected from 172.17.0.1:46356 as cliente01 (p5, c1, k60).
+1747585574: Client cliente01 has exceeded timeout, disconnecting.
+1747585578: New connection from 172.17.0.1:44970 on port 1883.
+1747585578: New client connected from 172.17.0.1:44970 as cliente01 (p5, c1, k60).
+1747585985: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747586776: Client cliente01 has exceeded timeout, disconnecting.
+1747586780: New connection from 172.17.0.1:59722 on port 1883.
+1747586780: New client connected from 172.17.0.1:59722 as cliente01 (p5, c1, k60).
+1747587254: Client cliente01 has exceeded timeout, disconnecting.
+1747587258: New connection from 172.17.0.1:57192 on port 1883.
+1747587258: New client connected from 172.17.0.1:57192 as cliente01 (p5, c1, k60).
+1747587786: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747588001: Client cliente01 has exceeded timeout, disconnecting.
+1747588005: New connection from 172.17.0.1:57870 on port 1883.
+1747588005: New client connected from 172.17.0.1:57870 as cliente01 (p5, c1, k60).
+1747588340: Client cliente01 has exceeded timeout, disconnecting.
+1747588344: New connection from 172.17.0.1:56450 on port 1883.
+1747588344: New client connected from 172.17.0.1:56450 as cliente01 (p5, c1, k60).
+1747588435: Client cliente01 has exceeded timeout, disconnecting.
+1747589587: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747591388: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747592922: New connection from 172.17.0.1:59662 on port 1883.
+1747592922: New client connected from 172.17.0.1:59662 as AvastHNS (p1, c1, k10).
+1747592922: Client AvastHNS disconnected.
+1747592922: New connection from 172.17.0.1:59668 on port 1883.
+1747592922: New client connected from 172.17.0.1:59668 as AvastHNS (p2, c1, k10).
+1747592922: Client AvastHNS disconnected.
+1747592922: New connection from 172.17.0.1:59680 on port 1883.
+1747592922: New client connected from 172.17.0.1:59680 as AvastHNS (p5, c1, k10).
+1747592922: Client AvastHNS disconnected.
+1747592924: New connection from 172.17.0.1:56342 on port 1883.
+1747592924: New client connected from 172.17.0.1:56342 as AvastHNS (p5, c1, k13).
+1747592936: Client AvastHNS disconnected.
+1747593189: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747594990: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747596791: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747598592: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747598761: mosquitto version 2.0.21 terminating
+1747598761: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747673839: mosquitto version 2.0.21 starting
+1747673839: Config loaded from /mosquitto/config/mosquitto.conf.
+1747673839: Opening ipv4 listen socket on port 1883.
+1747673839: Opening ipv6 listen socket on port 1883.
+1747673839: mosquitto version 2.0.21 running
+1747673840: New connection from 172.17.0.1:36908 on port 1883.
+1747673840: New client connected from 172.17.0.1:36908 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1747675640: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747677441: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747679242: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747679793: New connection from 172.17.0.1:56194 on port 1883.
+1747679793: New client connected from 172.17.0.1:56194 as AvastHNS (p1, c1, k10).
+1747679793: Client AvastHNS disconnected.
+1747679793: New connection from 172.17.0.1:56196 on port 1883.
+1747679793: New client connected from 172.17.0.1:56196 as AvastHNS (p2, c1, k10).
+1747679793: Client AvastHNS disconnected.
+1747679793: New connection from 172.17.0.1:56200 on port 1883.
+1747679793: New client connected from 172.17.0.1:56200 as AvastHNS (p5, c1, k10).
+1747679793: Client AvastHNS disconnected.
+1747679795: New connection from 172.17.0.1:56208 on port 1883.
+1747679795: New client connected from 172.17.0.1:56208 as AvastHNS (p5, c1, k13).
+1747679807: Client AvastHNS disconnected.
+1747680013: mosquitto version 2.0.21 starting
+1747680013: Config loaded from /mosquitto/config/mosquitto.conf.
+1747680013: Opening ipv4 listen socket on port 1883.
+1747680013: Opening ipv6 listen socket on port 1883.
+1747680013: Opening websockets listen socket on port 9001.
+1747680013: mosquitto version 2.0.21 running
+1747680014: New connection from 172.17.0.1:45960 on port 1883.
+1747680014: New client connected from 172.17.0.1:45960 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1747680162: New client connected from ::ffff:172.17.0.1:50788 as vue-client-547624fb (p2, c1, k60).
+1747680216: Client vue-client-547624fb closed its connection.
+1747680217: New client connected from ::ffff:172.17.0.1:56200 as vue-client-547624fb (p2, c1, k60).
+1747680423: New connection from 172.17.0.1:46204 on port 1883.
+1747680423: New client connected from 172.17.0.1:46204 as cliente01 (p5, c1, k60).
+1747680720: Client vue-client-547624fb closed its connection.
+1747680759: New client connected from ::ffff:172.17.0.1:33336 as vue-client-1719b786 (p2, c1, k60).
+1747681019: New client connected from ::ffff:172.17.0.1:52636 as vue-client-5048d227 (p2, c1, k60).
+1747681037: New client connected from ::ffff:172.17.0.1:53748 as vue-client-d374f8b0 (p2, c1, k60).
+1747681513: Client cliente01 has exceeded timeout, disconnecting.
+1747681517: New connection from 172.17.0.1:41316 on port 1883.
+1747681517: New client connected from 172.17.0.1:41316 as cliente01 (p5, c1, k60).
+1747681814: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747681993: Client cliente01 has exceeded timeout, disconnecting.
+1747681997: New connection from 172.17.0.1:44882 on port 1883.
+1747681997: New client connected from 172.17.0.1:44882 as cliente01 (p5, c1, k60).
+1747682413: Client cliente01 has exceeded timeout, disconnecting.
+1747682417: New connection from 172.17.0.1:39582 on port 1883.
+1747682417: New client connected from 172.17.0.1:39582 as cliente01 (p5, c1, k60).
+1747682838: Client cliente01 disconnected.
+1747682839: New connection from 172.17.0.1:48648 on port 1883.
+1747682839: New client connected from 172.17.0.1:48648 as cliente01 (p5, c1, k60).
+1747683615: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747683670: Client cliente01 disconnected.
+1747683670: New connection from 172.17.0.1:55352 on port 1883.
+1747683670: New client connected from 172.17.0.1:55352 as cliente01 (p5, c1, k60).
+1747684311: Client vue-client-1719b786 closed its connection.
+1747684311: Client vue-client-d374f8b0 closed its connection.
+1747684311: Client vue-client-5048d227 closed its connection.
+1747684334: New client connected from ::ffff:172.17.0.1:47324 as vue-client-8d02acb0 (p2, c1, k60).
+1747684571: Client vue-client-8d02acb0 closed its connection.
+1747684571: New client connected from ::ffff:172.17.0.1:45630 as vue-client-f00a917a (p2, c1, k60).
+1747684735: Client vue-client-f00a917a closed its connection.
+1747684787: New client connected from ::ffff:172.17.0.1:53134 as vue-client-9a84c381 (p2, c1, k60).
+1747684813: Client cliente01 has exceeded timeout, disconnecting.
+1747684817: New connection from 172.17.0.1:39392 on port 1883.
+1747684817: New client connected from 172.17.0.1:39392 as cliente01 (p5, c1, k60).
+1747684960: Client vue-client-9a84c381 closed its connection.
+1747684992: New client connected from ::ffff:172.17.0.1:34712 as vue-client-d4c5e372 (p2, c1, k60).
+1747685040: Client vue-client-d4c5e372 closed its connection.
+1747685082: New client connected from ::ffff:172.17.0.1:45220 as vue-client-9418d884 (p2, c1, k60).
+1747685233: Client cliente01 has exceeded timeout, disconnecting.
+1747685237: New connection from 172.17.0.1:38076 on port 1883.
+1747685237: New client connected from 172.17.0.1:38076 as cliente01 (p5, c1, k60).
+1747685416: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747685614: Client vue-client-9418d884 closed its connection.
+1747685713: Client cliente01 has exceeded timeout, disconnecting.
+1747685717: New connection from 172.17.0.1:60978 on port 1883.
+1747685717: New client connected from 172.17.0.1:60978 as cliente01 (p5, c1, k60).
+1747685750: New client connected from ::ffff:172.17.0.1:59738 as vue-client-c53f958e (p2, c1, k60).
+1747686313: Client cliente01 has exceeded timeout, disconnecting.
+1747686317: New connection from 172.17.0.1:50314 on port 1883.
+1747686317: New client connected from 172.17.0.1:50314 as cliente01 (p5, c1, k60).
+1747686793: Client cliente01 has exceeded timeout, disconnecting.
+1747686797: New connection from 172.17.0.1:46000 on port 1883.
+1747686797: New client connected from 172.17.0.1:46000 as cliente01 (p5, c1, k60).
+1747687213: Client cliente01 has exceeded timeout, disconnecting.
+1747687217: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747687217: New connection from 172.17.0.1:33530 on port 1883.
+1747687217: New client connected from 172.17.0.1:33530 as cliente01 (p5, c1, k60).
+1747687693: Client cliente01 has exceeded timeout, disconnecting.
+1747687697: New connection from 172.17.0.1:39104 on port 1883.
+1747687697: New client connected from 172.17.0.1:39104 as cliente01 (p5, c1, k60).
+1747688113: Client cliente01 has exceeded timeout, disconnecting.
+1747688117: New connection from 172.17.0.1:41634 on port 1883.
+1747688117: New client connected from 172.17.0.1:41634 as cliente01 (p5, c1, k60).
+1747688533: Client cliente01 has exceeded timeout, disconnecting.
+1747688537: New connection from 172.17.0.1:46304 on port 1883.
+1747688537: New client connected from 172.17.0.1:46304 as cliente01 (p5, c1, k60).
+1747689013: Client cliente01 has exceeded timeout, disconnecting.
+1747689017: New connection from 172.17.0.1:46486 on port 1883.
+1747689017: New client connected from 172.17.0.1:46486 as cliente01 (p5, c1, k60).
+1747689018: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747689553: Client cliente01 has exceeded timeout, disconnecting.
+1747689557: New connection from 172.17.0.1:58352 on port 1883.
+1747689557: New client connected from 172.17.0.1:58352 as cliente01 (p5, c1, k60).
+1747689648: Client cliente01 has exceeded timeout, disconnecting.
+1747690819: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747690972: Client vue-client-c53f958e closed its connection.
+1747691145: New client connected from ::ffff:172.17.0.1:60626 as vue-client-4f8f0bf8 (p2, c1, k60).
+1747691417: Client vue-client-4f8f0bf8 closed its connection.
+1747691418: New client connected from ::ffff:172.17.0.1:48576 as vue-client-f1192c28 (p2, c1, k60).
+1747691484: Client vue-client-f1192c28 closed its connection.
+1747691521: New client connected from ::ffff:172.17.0.1:60032 as vue-client-844b729f (p2, c1, k60).
+1747691618: Client vue-client-844b729f closed its connection.
+1747691655: New client connected from ::ffff:172.17.0.1:50478 as vue-client-20f7c2fa (p2, c1, k60).
+1747691955: Client vue-client-20f7c2fa closed its connection.
+1747692420: New client connected from ::ffff:172.17.0.1:59772 as vue-client-15f41659 (p2, c1, k60).
+1747692620: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747692944: Client vue-client-15f41659 closed its connection.
+1747693165: New client connected from ::ffff:172.17.0.1:40582 as vue-client-471ea27f (p2, c1, k60).
+1747693382: Client vue-client-471ea27f closed its connection.
+1747693404: New client connected from ::ffff:172.17.0.1:56434 as vue-client-1a2a98f2 (p2, c1, k60).
+1747693889: Client vue-client-1a2a98f2 closed its connection.
+1747693889: New client connected from ::ffff:172.17.0.1:46938 as vue-client-3cda031e (p2, c1, k60).
+1747694248: Client vue-client-3cda031e closed its connection.
+1747694257: New client connected from ::ffff:172.17.0.1:36354 as vue-client-4d21d6cb (p2, c1, k60).
+1747694290: Client vue-client-4d21d6cb closed its connection.
+1747694325: New client connected from ::ffff:172.17.0.1:54132 as vue-client-c0a1c17e (p2, c1, k60).
+1747694350: Client vue-client-c0a1c17e closed its connection.
+1747694421: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747694445: New client connected from ::ffff:172.17.0.1:57880 as vue-client-a698c3ba (p2, c1, k60).
+1747694494: Client vue-client-a698c3ba closed its connection.
+1747694495: New client connected from ::ffff:172.17.0.1:38692 as vue-client-0d00fc39 (p2, c1, k60).
+1747694519: Client vue-client-0d00fc39 closed its connection.
+1747694520: New client connected from ::ffff:172.17.0.1:44778 as vue-client-f9bb81cd (p2, c1, k60).
+1747694690: Client vue-client-f9bb81cd closed its connection.
+1747694731: New client connected from ::ffff:172.17.0.1:43174 as vue-client-43e5e746 (p2, c1, k60).
+1747694791: Client vue-client-43e5e746 closed its connection.
+1747694886: New client connected from ::ffff:172.17.0.1:37228 as vue-client-7125a7f5 (p2, c1, k60).
+1747695004: New connection from 172.17.0.1:35062 on port 1883.
+1747695004: New client connected from 172.17.0.1:35062 as cliente01 (p5, c1, k60).
+1747695049: Client vue-client-7125a7f5 closed its connection.
+1747695050: New client connected from ::ffff:172.17.0.1:51906 as vue-client-4c59f110 (p2, c1, k60).
+1747695623: New client connected from ::ffff:172.17.0.1:43468 as vue-client-df2b214c (p2, c1, k60).
+1747695638: Client cliente01 has exceeded timeout, disconnecting.
+1747695642: New connection from 172.17.0.1:43300 on port 1883.
+1747695642: New client connected from 172.17.0.1:43300 as cliente01 (p5, c1, k60).
+1747695662: Client vue-client-df2b214c closed its connection.
+1747695663: New client connected from ::ffff:172.17.0.1:49014 as vue-client-38c73226 (p2, c1, k60).
+1747695782: Client vue-client-38c73226 closed its connection.
+1747695782: Client vue-client-4c59f110 closed its connection.
+1747695810: Client shellyplusplugs-c82e1808801c closed its connection.
+1747695810: Client cliente01 closed its connection.
+1747754264: mosquitto version 2.0.21 starting
+1747754264: Config loaded from /mosquitto/config/mosquitto.conf.
+1747754264: Opening ipv4 listen socket on port 1883.
+1747754264: Opening ipv6 listen socket on port 1883.
+1747754264: Opening websockets listen socket on port 9001.
+1747754264: mosquitto version 2.0.21 running
+1747754270: New connection from 172.17.0.1:43192 on port 1883.
+1747754270: New client connected from 172.17.0.1:43192 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1747754681: New connection from ::1:51402 on port 1883.
+1747754681: New client connected from ::1:51402 as auto-338003C7-EC66-7D48-DCE6-111DFD3B1F24 (p2, c1, k60).
+1747755630: Client shellyplusplugs-c82e1808801c has exceeded timeout, disconnecting.
+1747756065: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747757866: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747759667: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747761468: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747761588: New connection from 172.17.0.1:49202 on port 1883.
+1747761588: New client connected from 172.17.0.1:49202 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1747762082: Client auto-338003C7-EC66-7D48-DCE6-111DFD3B1F24 disconnected.
+1747763269: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747763322: New client connected from ::ffff:172.17.0.1:58918 as vue-client-32ccd916 (p2, c1, k60).
+1747763396: Client vue-client-32ccd916 closed its connection.
+1747763397: New client connected from ::ffff:172.17.0.1:51698 as vue-client-77872638 (p2, c1, k60).
+1747763496: Client vue-client-77872638 closed its connection.
+1747763497: New client connected from ::ffff:172.17.0.1:34522 as vue-client-2a762f57 (p2, c1, k60).
+1747763882: New connection from 172.17.0.1:55406 on port 1883.
+1747763882: Client shellyplusplugs-c82e1808801c already connected, closing old connection.
+1747763882: New client connected from 172.17.0.1:55406 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1747764573: Client vue-client-2a762f57 closed its connection.
+1747764574: New client connected from ::ffff:172.17.0.1:57368 as vue-client-794300a9 (p2, c1, k60).
+1747764637: Client vue-client-794300a9 closed its connection.
+1747764637: New client connected from ::ffff:172.17.0.1:44576 as vue-client-d41f3f35 (p2, c1, k60).
+1747764715: Client vue-client-d41f3f35 closed its connection.
+1747764715: New client connected from ::ffff:172.17.0.1:58516 as vue-client-7cc4a6fe (p2, c1, k60).
+1747764854: Client vue-client-7cc4a6fe closed its connection.
+1747764855: New client connected from ::ffff:172.17.0.1:47760 as vue-client-ac026d07 (p2, c1, k60).
+1747765070: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747765132: Client vue-client-ac026d07 closed its connection.
+1747765133: New client connected from ::ffff:172.17.0.1:57352 as vue-client-b340cae4 (p2, c1, k60).
+1747765405: Client vue-client-b340cae4 closed its connection.
+1747765406: New client connected from ::ffff:172.17.0.1:59546 as vue-client-d4b7ffc0 (p2, c1, k60).
+1747765500: Client vue-client-d4b7ffc0 closed its connection.
+1747765501: New client connected from ::ffff:172.17.0.1:43630 as vue-client-989a1b8d (p2, c1, k60).
+1747766497: Client vue-client-989a1b8d closed its connection.
+1747766497: New client connected from ::ffff:172.17.0.1:37104 as vue-client-cb47b227 (p2, c1, k60).
+1747766580: New connection from 172.17.0.1:51390 on port 1883.
+1747766580: New client connected from 172.17.0.1:51390 as AvastHNS (p1, c1, k10).
+1747766580: Client AvastHNS disconnected.
+1747766580: New connection from 172.17.0.1:51394 on port 1883.
+1747766580: New client connected from 172.17.0.1:51394 as AvastHNS (p2, c1, k10).
+1747766580: Client AvastHNS disconnected.
+1747766580: New connection from 172.17.0.1:51400 on port 1883.
+1747766580: New client connected from 172.17.0.1:51400 as AvastHNS (p5, c1, k10).
+1747766580: Client AvastHNS disconnected.
+1747766582: New connection from 172.17.0.1:51406 on port 1883.
+1747766582: New client connected from 172.17.0.1:51406 as AvastHNS (p5, c1, k13).
+1747766594: Client AvastHNS disconnected.
+1747766615: Client vue-client-cb47b227 closed its connection.
+1747766615: New client connected from ::ffff:172.17.0.1:51828 as vue-client-97a58169 (p2, c1, k60).
+1747766629: Client vue-client-97a58169 closed its connection.
+1747766629: New client connected from ::ffff:172.17.0.1:58272 as vue-client-6374e9c6 (p2, c1, k60).
+1747766724: Client vue-client-6374e9c6 closed its connection.
+1747766725: New client connected from ::ffff:172.17.0.1:47330 as vue-client-4810d01b (p2, c1, k60).
+1747766734: Client vue-client-4810d01b closed its connection.
+1747766734: New client connected from ::ffff:172.17.0.1:59938 as vue-client-f3d604f5 (p2, c1, k60).
+1747766863: Client vue-client-f3d604f5 closed its connection.
+1747766863: New client connected from ::ffff:172.17.0.1:45122 as vue-client-49784d87 (p2, c1, k60).
+1747766871: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747766897: Client vue-client-49784d87 closed its connection.
+1747766897: New client connected from ::ffff:172.17.0.1:36412 as vue-client-89b04011 (p2, c1, k60).
+1747767330: Client vue-client-89b04011 closed its connection.
+1747767331: New client connected from ::ffff:172.17.0.1:36046 as vue-client-8a0468ac (p2, c1, k60).
+1747768014: New client connected from ::ffff:172.17.0.1:37914 as vue-client-9c29cc40 (p2, c1, k60).
+1747768046: Client vue-client-8a0468ac closed its connection.
+1747768046: Client vue-client-9c29cc40 closed its connection.
+1747768046: New client connected from ::ffff:172.17.0.1:48518 as vue-client-2bc0da18 (p2, c1, k60).
+1747768167: Client vue-client-2bc0da18 closed its connection.
+1747768168: New client connected from ::ffff:172.17.0.1:50872 as vue-client-7f4ee180 (p2, c1, k60).
+1747768672: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747768702: Client vue-client-7f4ee180 closed its connection.
+1747768702: New client connected from ::ffff:172.17.0.1:51846 as vue-client-a1de2450 (p2, c1, k60).
+1747768711: Client vue-client-a1de2450 closed its connection.
+1747768711: New client connected from ::ffff:172.17.0.1:44310 as vue-client-1d4835ed (p2, c1, k60).
+1747768735: Client vue-client-1d4835ed closed its connection.
+1747768736: New client connected from ::ffff:172.17.0.1:44574 as vue-client-110ac647 (p2, c1, k60).
+1747768748: Client vue-client-110ac647 closed its connection.
+1747768748: New client connected from ::ffff:172.17.0.1:51750 as vue-client-68d93919 (p2, c1, k60).
+1747768765: Client vue-client-68d93919 closed its connection.
+1747768765: New client connected from ::ffff:172.17.0.1:50056 as vue-client-dfbcc190 (p2, c1, k60).
+1747768822: New client connected from ::ffff:172.17.0.1:55212 as vue-client-5b3f5a46 (p2, c1, k60).
+1747769146: Client vue-client-dfbcc190 closed its connection.
+1747769146: Client vue-client-5b3f5a46 closed its connection.
+1747769805: New client connected from ::ffff:172.17.0.1:39234 as vue-client-729e24a1 (p2, c1, k60).
+1747769918: Client vue-client-729e24a1 closed its connection.
+1747769918: New client connected from ::ffff:172.17.0.1:54910 as vue-client-bb6e7120 (p2, c1, k60).
+1747770015: Client vue-client-bb6e7120 closed its connection.
+1747770351: New client connected from ::ffff:172.17.0.1:36456 as vue-client-b1e66fff (p2, c1, k60).
+1747770361: Client vue-client-b1e66fff closed its connection.
+1747770361: New client connected from ::ffff:172.17.0.1:51842 as vue-client-2ed09d40 (p2, c1, k60).
+1747770398: Client vue-client-2ed09d40 closed its connection.
+1747770398: New client connected from ::ffff:172.17.0.1:33460 as vue-client-d958c665 (p2, c1, k60).
+1747770473: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747770499: Client vue-client-d958c665 closed its connection.
+1747770534: New client connected from ::ffff:172.17.0.1:60902 as vue-client-36b620fc (p2, c1, k60).
+1747770552: Client vue-client-36b620fc closed its connection.
+1747770716: New client connected from ::ffff:172.17.0.1:40212 as vue-client-104a92b3 (p2, c1, k60).
+1747770883: Client vue-client-104a92b3 closed its connection.
+1747770883: New client connected from ::ffff:172.17.0.1:39144 as vue-client-202fd41a (p2, c1, k60).
+1747770951: Client vue-client-202fd41a closed its connection.
+1747770959: New client connected from ::ffff:172.17.0.1:45750 as vue-client-16434cf7 (p2, c1, k60).
+1747771086: Client vue-client-16434cf7 closed its connection.
+1747771086: New client connected from ::ffff:172.17.0.1:48128 as vue-client-847ed81f (p2, c1, k60).
+1747771176: Client vue-client-847ed81f closed its connection.
+1747771176: New client connected from ::ffff:172.17.0.1:38006 as vue-client-e161f680 (p2, c1, k60).
+1747772274: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747772517: Client vue-client-e161f680 closed its connection.
+1747772543: New client connected from ::ffff:172.17.0.1:37894 as vue-client-d2a96fc5 (p2, c1, k60).
+1747773034: New client connected from ::ffff:172.17.0.1:56684 as vue-client-54bc7365 (p2, c1, k60).
+1747773042: Client vue-client-d2a96fc5 closed its connection.
+1747773042: Client vue-client-54bc7365 closed its connection.
+1747773043: New client connected from ::ffff:172.17.0.1:33058 as vue-client-de9adc96 (p2, c1, k60).
+1747773657: Client vue-client-de9adc96 closed its connection.
+1747773657: New client connected from ::ffff:172.17.0.1:38486 as vue-client-3662171b (p2, c1, k60).
+1747773674: Client shellyplusplugs-c82e1808801c closed its connection.
+1747773674: New connection from 172.17.0.1:37602 on port 1883.
+1747773674: New client connected from 172.17.0.1:37602 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1747773678: Client vue-client-3662171b closed its connection.
+1747773678: New client connected from ::ffff:172.17.0.1:45676 as vue-client-b6658e5c (p2, c1, k60).
+1747774075: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747775876: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747776695: Client vue-client-b6658e5c closed its connection.
+1747776695: New client connected from ::ffff:172.17.0.1:56528 as vue-client-118c2019 (p2, c1, k60).
+1747777464: New client connected from ::ffff:172.17.0.1:57812 as vue-client-82e1d5c4 (p2, c1, k60).
+1747777677: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747777962: Client vue-client-82e1d5c4 closed its connection.
+1747777962: Client vue-client-118c2019 closed its connection.
+1747777971: Client shellyplusplugs-c82e1808801c closed its connection.
+1747850797: mosquitto version 2.0.21 starting
+1747850797: Config loaded from /mosquitto/config/mosquitto.conf.
+1747850797: Opening ipv4 listen socket on port 1883.
+1747850797: Opening ipv6 listen socket on port 1883.
+1747850797: Opening websockets listen socket on port 9001.
+1747850797: mosquitto version 2.0.21 running
+1747852552: New client connected from ::ffff:172.17.0.1:39010 as vue-client-e01ebbc4 (p2, c1, k60).
+1747852598: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747852659: Client vue-client-e01ebbc4 closed its connection.
+1747852659: New client connected from ::ffff:172.17.0.1:50962 as vue-client-19bbbaef (p2, c1, k60).
+1747852684: Client vue-client-19bbbaef closed its connection.
+1747852684: New client connected from ::ffff:172.17.0.1:49590 as vue-client-efca4c35 (p2, c1, k60).
+1747852951: New connection from 172.17.0.1:60494 on port 1883.
+1747852951: New client connected from 172.17.0.1:60494 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1747852965: Client vue-client-efca4c35 closed its connection.
+1747852966: New client connected from ::ffff:172.17.0.1:55592 as vue-client-57755c80 (p2, c1, k60).
+1747853327: New connection from 172.17.0.1:55448 on port 1883.
+1747853327: New client connected from 172.17.0.1:55448 as AvastHNS (p1, c1, k10).
+1747853327: Client AvastHNS disconnected.
+1747853327: New connection from 172.17.0.1:55464 on port 1883.
+1747853327: New client connected from 172.17.0.1:55464 as AvastHNS (p2, c1, k10).
+1747853327: Client AvastHNS disconnected.
+1747853327: New connection from 172.17.0.1:55476 on port 1883.
+1747853327: New client connected from 172.17.0.1:55476 as AvastHNS (p5, c1, k10).
+1747853327: Client AvastHNS disconnected.
+1747853330: New connection from 172.17.0.1:55488 on port 1883.
+1747853330: New client connected from 172.17.0.1:55488 as AvastHNS (p5, c1, k13).
+1747853342: Client AvastHNS disconnected.
+1747854399: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747856200: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747856337: Client vue-client-57755c80 closed its connection.
+1747856337: New client connected from ::ffff:172.17.0.1:58034 as vue-client-6647920c (p2, c1, k60).
+1747858001: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747859802: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747860557: mosquitto version 2.0.21 terminating
+1747860557: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747860557: Client vue-client-6647920c closed its connection.
+1747931013: mosquitto version 2.0.21 starting
+1747931013: Config loaded from /mosquitto/config/mosquitto.conf.
+1747931013: Opening ipv4 listen socket on port 1883.
+1747931013: Opening ipv6 listen socket on port 1883.
+1747931013: Opening websockets listen socket on port 9001.
+1747931013: mosquitto version 2.0.21 running
+1747931025: New connection from 172.17.0.1:45010 on port 1883.
+1747931025: New client connected from 172.17.0.1:45010 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1747931395: New client connected from ::ffff:172.17.0.1:35614 as vue-client-b8887bd0 (p2, c1, k60).
+1747932815: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747934164: Client vue-client-b8887bd0 closed its connection.
+1747934164: New client connected from ::ffff:172.17.0.1:42346 as vue-client-294ca602 (p2, c1, k60).
+1747934204: Client vue-client-294ca602 closed its connection.
+1747934232: New client connected from ::ffff:172.17.0.1:53578 as vue-client-b3a7bc5d (p2, c1, k60).
+1747934256: Client vue-client-b3a7bc5d closed its connection.
+1747934256: New client connected from ::ffff:172.17.0.1:56094 as vue-client-8ed8203b (p2, c1, k60).
+1747934526: Client vue-client-8ed8203b closed its connection.
+1747934526: New client connected from ::ffff:172.17.0.1:58460 as vue-client-986e3b20 (p2, c1, k60).
+1747934616: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747934991: Client vue-client-986e3b20 closed its connection.
+1747934991: New client connected from ::ffff:172.17.0.1:57146 as vue-client-da1de6f4 (p2, c1, k60).
+1747935248: Client vue-client-da1de6f4 closed its connection.
+1747935303: New client connected from ::ffff:172.17.0.1:46828 as vue-client-4545cb3f (p2, c1, k60).
+1747935616: Client vue-client-4545cb3f closed its connection.
+1747935616: New client connected from ::ffff:172.17.0.1:56624 as vue-client-8df6d9ff (p2, c1, k60).
+1747936417: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747938218: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747938330: Client vue-client-8df6d9ff closed its connection.
+1747938331: New client connected from ::ffff:172.17.0.1:46372 as vue-client-ce270f3e (p2, c1, k60).
+1747938423: Client vue-client-ce270f3e closed its connection.
+1747938424: New client connected from ::ffff:172.17.0.1:54090 as vue-client-ee3dd560 (p2, c1, k60).
+1747938455: Client vue-client-ee3dd560 closed its connection.
+1747938455: New client connected from ::ffff:172.17.0.1:57184 as vue-client-3c7136b2 (p2, c1, k60).
+1747938946: Client vue-client-3c7136b2 closed its connection.
+1747939030: New client connected from ::ffff:172.17.0.1:58566 as vue-client-6a1cd7bb (p2, c1, k60).
+1747939039: Client vue-client-6a1cd7bb closed its connection.
+1747939039: New client connected from ::ffff:172.17.0.1:55532 as vue-client-3317c7d1 (p2, c1, k60).
+1747939189: Client vue-client-3317c7d1 closed its connection.
+1747939189: New client connected from ::ffff:172.17.0.1:50976 as vue-client-20e64e3f (p2, c1, k60).
+1747939574: Client vue-client-20e64e3f closed its connection.
+1747939575: New client connected from ::ffff:172.17.0.1:43508 as vue-client-ddf477c8 (p2, c1, k60).
+1747939715: Client vue-client-ddf477c8 closed its connection.
+1747939715: New client connected from ::ffff:172.17.0.1:52760 as vue-client-e6d2d2f4 (p2, c1, k60).
+1747939798: Client vue-client-e6d2d2f4 closed its connection.
+1747939798: New client connected from ::ffff:172.17.0.1:57112 as vue-client-978fdf9e (p2, c1, k60).
+1747939928: New connection from 172.17.0.1:42306 on port 1883.
+1747939928: New client connected from 172.17.0.1:42306 as AvastHNS (p1, c1, k10).
+1747939928: Client AvastHNS disconnected.
+1747939928: New connection from 172.17.0.1:42308 on port 1883.
+1747939928: New client connected from 172.17.0.1:42308 as AvastHNS (p2, c1, k10).
+1747939928: Client AvastHNS disconnected.
+1747939928: New connection from 172.17.0.1:42312 on port 1883.
+1747939928: New client connected from 172.17.0.1:42312 as AvastHNS (p5, c1, k10).
+1747939928: Client AvastHNS disconnected.
+1747939931: New connection from 172.17.0.1:42328 on port 1883.
+1747939931: New client connected from 172.17.0.1:42328 as AvastHNS (p5, c1, k13).
+1747939943: Client AvastHNS disconnected.
+1747939955: Client vue-client-978fdf9e closed its connection.
+1747939955: New client connected from ::ffff:172.17.0.1:48772 as vue-client-41ce1bb2 (p2, c1, k60).
+1747940019: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747940054: Client vue-client-41ce1bb2 closed its connection.
+1747940196: New client connected from ::ffff:172.17.0.1:40108 as vue-client-69038f31 (p2, c1, k60).
+1747941820: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747943621: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747945393: mosquitto version 2.0.21 terminating
+1747945393: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1747945393: Client vue-client-69038f31 closed its connection.
+1748276759: mosquitto version 2.0.21 starting
+1748276759: Config loaded from /mosquitto/config/mosquitto.conf.
+1748276759: Opening ipv4 listen socket on port 1883.
+1748276759: Opening ipv6 listen socket on port 1883.
+1748276759: Opening websockets listen socket on port 9001.
+1748276759: mosquitto version 2.0.21 running
+1748276761: New client connected from ::ffff:172.17.0.1:45434 as vue-client-4e375ed2 (p2, c1, k60).
+1748276805: Client vue-client-4e375ed2 closed its connection.
+1748276805: New connection from 172.17.0.1:35024 on port 1883.
+1748276805: New client connected from 172.17.0.1:35024 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1748276805: New client connected from ::ffff:172.17.0.1:34666 as vue-client-9d79d7ee (p2, c1, k60).
+1748277255: Client vue-client-9d79d7ee closed its connection.
+1748277256: New client connected from ::ffff:172.17.0.1:57846 as vue-client-d9249b87 (p2, c1, k60).
+1748277430: Client vue-client-d9249b87 closed its connection.
+1748277433: New client connected from ::ffff:172.17.0.1:50032 as vue-client-b7d5bc23 (p2, c1, k60).
+1748277447: Client vue-client-b7d5bc23 closed its connection.
+1748277454: New client connected from ::ffff:172.17.0.1:32790 as vue-client-720fadcd (p2, c1, k60).
+1748277627: Client vue-client-720fadcd closed its connection.
+1748277628: New client connected from ::ffff:172.17.0.1:37566 as vue-client-62c6d6c6 (p2, c1, k60).
+1748277937: Client vue-client-62c6d6c6 closed its connection.
+1748277945: New client connected from ::ffff:172.17.0.1:54558 as vue-client-a45c909e (p2, c1, k60).
+1748278560: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748279182: Client vue-client-a45c909e closed its connection.
+1748279183: New client connected from ::ffff:172.17.0.1:48864 as vue-client-768946cd (p2, c1, k60).
+1748280043: Client vue-client-768946cd closed its connection.
+1748280043: New client connected from ::ffff:172.17.0.1:53184 as vue-client-7a12e18f (p2, c1, k60).
+1748280135: Client vue-client-7a12e18f closed its connection.
+1748280136: New client connected from ::ffff:172.17.0.1:51840 as vue-client-071f9071 (p2, c1, k60).
+1748280268: Client vue-client-071f9071 closed its connection.
+1748280269: New client connected from ::ffff:172.17.0.1:59480 as vue-client-65684b58 (p2, c1, k60).
+1748280361: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748280412: New client connected from ::ffff:172.17.0.1:52428 as vue-client-c4d48808 (p2, c1, k60).
+1748280432: Client vue-client-65684b58 closed its connection.
+1748280433: New client connected from ::ffff:172.17.0.1:37176 as vue-client-afe01f54 (p2, c1, k60).
+1748280566: Client vue-client-afe01f54 closed its connection.
+1748280567: New client connected from ::ffff:172.17.0.1:36220 as vue-client-9767a407 (p2, c1, k60).
+1748280727: Client vue-client-9767a407 closed its connection.
+1748280727: New client connected from ::ffff:172.17.0.1:33564 as vue-client-a0ac11a1 (p2, c1, k60).
+1748281022: Client vue-client-c4d48808 closed its connection.
+1748281022: Client vue-client-a0ac11a1 closed its connection.
+1748281023: New client connected from ::ffff:172.17.0.1:47420 as vue-client-ba9228bd (p2, c1, k60).
+1748281438: Client vue-client-ba9228bd closed its connection.
+1748281438: New client connected from ::ffff:172.17.0.1:60562 as vue-client-e11af931 (p2, c1, k60).
+1748281445: Client vue-client-e11af931 closed its connection.
+1748281446: New client connected from ::ffff:172.17.0.1:38806 as vue-client-e075c21b (p2, c1, k60).
+1748282162: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748283963: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748285764: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748287565: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748288302: New connection from 172.17.0.1:35672 on port 1883.
+1748288302: New client connected from 172.17.0.1:35672 as cliente01 (p5, c1, k60).
+1748289189: Client cliente01 has exceeded timeout, disconnecting.
+1748289194: New connection from 172.17.0.1:54596 on port 1883.
+1748289194: New client connected from 172.17.0.1:54596 as cliente01 (p5, c1, k60).
+1748289366: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748289542: New client connected from ::ffff:172.17.0.1:35782 as vue-client-ddf276e2 (p2, c1, k60).
+1748289618: New client connected from ::ffff:172.17.0.1:60282 as vue-client-22fb9dd1 (p2, c1, k60).
+1748289902: Client cliente01 has exceeded timeout, disconnecting.
+1748289907: New connection from 172.17.0.1:48664 on port 1883.
+1748289907: New client connected from 172.17.0.1:48664 as cliente01 (p5, c1, k60).
+1748290382: Client cliente01 has exceeded timeout, disconnecting.
+1748290387: New connection from 172.17.0.1:47238 on port 1883.
+1748290387: New client connected from 172.17.0.1:47238 as cliente01 (p5, c1, k60).
+1748291167: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748291395: Client vue-client-e075c21b closed its connection.
+1748291395: Client vue-client-22fb9dd1 closed its connection.
+1748291395: Client vue-client-ddf276e2 closed its connection.
+1748291395: New client connected from ::ffff:172.17.0.1:39998 as vue-client-ce43a7ae (p2, c1, k60).
+1748291522: Client cliente01 has exceeded timeout, disconnecting.
+1748291527: New connection from 172.17.0.1:46286 on port 1883.
+1748291527: New client connected from 172.17.0.1:46286 as cliente01 (p5, c1, k60).
+1748292003: Client cliente01 has exceeded timeout, disconnecting.
+1748292008: New connection from 172.17.0.1:56618 on port 1883.
+1748292008: New client connected from 172.17.0.1:56618 as cliente01 (p5, c1, k60).
+1748292583: Client vue-client-ce43a7ae closed its connection.
+1748292584: New client connected from ::ffff:172.17.0.1:53808 as vue-client-e7daa239 (p2, c1, k60).
+1748292773: Client vue-client-e7daa239 closed its connection.
+1748292773: New client connected from ::ffff:172.17.0.1:39290 as vue-client-f713ca45 (p2, c1, k60).
+1748292847: Client cliente01 has exceeded timeout, disconnecting.
+1748292852: New connection from 172.17.0.1:35472 on port 1883.
+1748292852: New client connected from 172.17.0.1:35472 as cliente01 (p5, c1, k60).
+1748292968: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748293262: Client cliente01 has exceeded timeout, disconnecting.
+1748293266: New connection from 172.17.0.1:54970 on port 1883.
+1748293266: New client connected from 172.17.0.1:54970 as cliente01 (p5, c1, k60).
+1748293450: Client vue-client-f713ca45 closed its connection.
+1748293450: New client connected from ::ffff:172.17.0.1:56230 as vue-client-b3d0caa4 (p2, c1, k60).
+1748293670: Client vue-client-b3d0caa4 closed its connection.
+1748293670: New client connected from ::ffff:172.17.0.1:54472 as vue-client-8b3197ac (p2, c1, k60).
+1748293802: Client cliente01 has exceeded timeout, disconnecting.
+1748293807: New connection from 172.17.0.1:43368 on port 1883.
+1748293807: New client connected from 172.17.0.1:43368 as cliente01 (p5, c1, k60).
+1748293884: Client vue-client-8b3197ac closed its connection.
+1748293884: New client connected from ::ffff:172.17.0.1:44354 as vue-client-d64d9ff7 (p2, c1, k60).
+1748293928: Client vue-client-d64d9ff7 closed its connection.
+1748293928: New client connected from ::ffff:172.17.0.1:35138 as vue-client-10b8df8c (p2, c1, k60).
+1748294283: Client cliente01 has exceeded timeout, disconnecting.
+1748294288: New connection from 172.17.0.1:50532 on port 1883.
+1748294288: New client connected from 172.17.0.1:50532 as cliente01 (p5, c1, k60).
+1748294762: Client cliente01 has exceeded timeout, disconnecting.
+1748294767: New connection from 172.17.0.1:38092 on port 1883.
+1748294767: New client connected from 172.17.0.1:38092 as cliente01 (p5, c1, k60).
+1748294769: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748295242: Client cliente01 has exceeded timeout, disconnecting.
+1748295246: New connection from 172.17.0.1:35540 on port 1883.
+1748295246: New client connected from 172.17.0.1:35540 as cliente01 (p5, c1, k60).
+1748295337: Client cliente01 has exceeded timeout, disconnecting.
+1748296570: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748297110: Client vue-client-10b8df8c closed its connection.
+1748297120: Client shellyplusplugs-c82e1808801c closed its connection.
+1748363589: mosquitto version 2.0.21 starting
+1748363589: Config loaded from /mosquitto/config/mosquitto.conf.
+1748363589: Opening ipv4 listen socket on port 1883.
+1748363589: Opening ipv6 listen socket on port 1883.
+1748363589: Opening websockets listen socket on port 9001.
+1748363589: mosquitto version 2.0.21 running
+1748363636: New connection from 172.17.0.1:44774 on port 1883.
+1748363636: New client connected from 172.17.0.1:44774 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1748364342: New client connected from ::ffff:172.17.0.1:56696 as vue-client-0ef59d54 (p2, c1, k60).
+1748364978: New client connected from ::ffff:172.17.0.1:44198 as vue-client-5c4e745c (p2, c1, k60).
+1748365331: Client vue-client-0ef59d54 closed its connection.
+1748365331: Client vue-client-5c4e745c closed its connection.
+1748365331: New client connected from ::ffff:172.17.0.1:36860 as vue-client-09b7a9f4 (p2, c1, k60).
+1748365390: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748365473: Client vue-client-09b7a9f4 closed its connection.
+1748365474: New client connected from ::ffff:172.17.0.1:51300 as vue-client-8729a9dc (p2, c1, k60).
+1748365653: Client vue-client-8729a9dc closed its connection.
+1748365654: New client connected from ::ffff:172.17.0.1:56218 as vue-client-ccc4604d (p2, c1, k60).
+1748365746: New connection from 172.17.0.1:59916 on port 1883.
+1748365746: New client connected from 172.17.0.1:59916 as cliente01 (p5, c1, k60).
+1748365868: New client connected from ::ffff:172.17.0.1:40140 as vue-client-3bb32809 (p2, c1, k60).
+1748365968: Client vue-client-ccc4604d closed its connection.
+1748365968: Client vue-client-3bb32809 closed its connection.
+1748365969: New client connected from ::ffff:172.17.0.1:41044 as vue-client-4e5ffa21 (p2, c1, k60).
+1748366021: Client vue-client-4e5ffa21 closed its connection.
+1748366021: New client connected from ::ffff:172.17.0.1:35912 as vue-client-bc9b2f4c (p2, c1, k60).
+1748366105: Client vue-client-bc9b2f4c closed its connection.
+1748366106: New client connected from ::ffff:172.17.0.1:37034 as vue-client-3f8d2525 (p2, c1, k60).
+1748366123: New client connected from ::ffff:172.17.0.1:38038 as vue-client-1d428176 (p2, c1, k60).
+1748366123: New client connected from ::ffff:172.17.0.1:38050 as vue-client-adcdcda2 (p2, c1, k60).
+1748366128: Client vue-client-3f8d2525 closed its connection.
+1748366128: Client vue-client-1d428176 closed its connection.
+1748366128: Client vue-client-adcdcda2 closed its connection.
+1748366129: New client connected from ::ffff:172.17.0.1:48688 as vue-client-727d3ec9 (p2, c1, k60).
+1748366178: Client vue-client-727d3ec9 closed its connection.
+1748366178: New client connected from ::ffff:172.17.0.1:60586 as vue-client-4d2a7d01 (p2, c1, k60).
+1748366583: Client cliente01 has exceeded timeout, disconnecting.
+1748366587: New connection from 172.17.0.1:49746 on port 1883.
+1748366587: New client connected from 172.17.0.1:49746 as cliente01 (p5, c1, k60).
+1748366834: Client vue-client-4d2a7d01 closed its connection.
+1748366834: New client connected from ::ffff:172.17.0.1:39420 as vue-client-f459c7e4 (p2, c1, k60).
+1748366850: Client vue-client-f459c7e4 closed its connection.
+1748366850: New client connected from ::ffff:172.17.0.1:33678 as vue-client-73a12a14 (p2, c1, k60).
+1748367181: Client cliente01 has exceeded timeout, disconnecting.
+1748367185: New connection from 172.17.0.1:38260 on port 1883.
+1748367185: New client connected from 172.17.0.1:38260 as cliente01 (p5, c1, k60).
+1748367191: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748367601: Client cliente01 has exceeded timeout, disconnecting.
+1748367605: New connection from 172.17.0.1:44760 on port 1883.
+1748367605: New client connected from 172.17.0.1:44760 as cliente01 (p5, c1, k60).
+1748368010: Client vue-client-73a12a14 closed its connection.
+1748368010: New client connected from ::ffff:172.17.0.1:48902 as vue-client-e5f41ca9 (p2, c1, k60).
+1748368321: Client cliente01 has exceeded timeout, disconnecting.
+1748368325: New connection from 172.17.0.1:36280 on port 1883.
+1748368325: New client connected from 172.17.0.1:36280 as cliente01 (p5, c1, k60).
+1748368353: Client vue-client-e5f41ca9 closed its connection.
+1748368353: New client connected from ::ffff:172.17.0.1:43968 as vue-client-b2ad4147 (p2, c1, k60).
+1748368741: Client cliente01 has exceeded timeout, disconnecting.
+1748368745: New connection from 172.17.0.1:38582 on port 1883.
+1748368745: New client connected from 172.17.0.1:38582 as cliente01 (p5, c1, k60).
+1748368889: Client vue-client-b2ad4147 closed its connection.
+1748368889: New client connected from ::ffff:172.17.0.1:60194 as vue-client-7b3e36ec (p2, c1, k60).
+1748368992: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748369161: Client cliente01 has exceeded timeout, disconnecting.
+1748369165: New connection from 172.17.0.1:58538 on port 1883.
+1748369165: New client connected from 172.17.0.1:58538 as cliente01 (p5, c1, k60).
+1748369581: Client cliente01 has exceeded timeout, disconnecting.
+1748369585: New connection from 172.17.0.1:37868 on port 1883.
+1748369585: New client connected from 172.17.0.1:37868 as cliente01 (p5, c1, k60).
+1748370061: Client cliente01 has exceeded timeout, disconnecting.
+1748370065: New connection from 172.17.0.1:41890 on port 1883.
+1748370065: New client connected from 172.17.0.1:41890 as cliente01 (p5, c1, k60).
+1748370395: New client connected from ::ffff:172.17.0.1:50340 as vue-client-a07a1981 (p2, c1, k60).
+1748370601: Client cliente01 has exceeded timeout, disconnecting.
+1748370605: New connection from 172.17.0.1:56466 on port 1883.
+1748370605: New client connected from 172.17.0.1:56466 as cliente01 (p5, c1, k60).
+1748370700: Client vue-client-7b3e36ec closed its connection.
+1748370700: Client vue-client-a07a1981 closed its connection.
+1748370701: New client connected from ::ffff:172.17.0.1:35956 as vue-client-fe8c653c (p2, c1, k60).
+1748370793: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748371081: Client cliente01 has exceeded timeout, disconnecting.
+1748371085: New connection from 172.17.0.1:60282 on port 1883.
+1748371085: New client connected from 172.17.0.1:60282 as cliente01 (p5, c1, k60).
+1748371501: Client cliente01 has exceeded timeout, disconnecting.
+1748371505: New connection from 172.17.0.1:55312 on port 1883.
+1748371505: New client connected from 172.17.0.1:55312 as cliente01 (p5, c1, k60).
+1748371596: Client cliente01 has exceeded timeout, disconnecting.
+1748372594: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748373669: Client vue-client-fe8c653c closed its connection.
+1748373669: New client connected from ::ffff:172.17.0.1:46518 as vue-client-1a8eb32e (p2, c1, k60).
+1748374395: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748374409: Client vue-client-1a8eb32e closed its connection.
+1748374409: New client connected from ::ffff:172.17.0.1:58622 as vue-client-c3e14483 (p2, c1, k60).
+1748374521: Client vue-client-c3e14483 closed its connection.
+1748374521: New client connected from ::ffff:172.17.0.1:35848 as vue-client-e171b552 (p2, c1, k60).
+1748375019: Client vue-client-e171b552 closed its connection.
+1748375020: New client connected from ::ffff:172.17.0.1:59374 as vue-client-fff9b100 (p2, c1, k60).
+1748375036: Client vue-client-fff9b100 closed its connection.
+1748375036: New client connected from ::ffff:172.17.0.1:46528 as vue-client-bf37dce8 (p2, c1, k60).
+1748375048: Client vue-client-bf37dce8 closed its connection.
+1748375049: New client connected from ::ffff:172.17.0.1:51918 as vue-client-62c1403a (p2, c1, k60).
+1748375067: Client vue-client-62c1403a closed its connection.
+1748375067: New client connected from ::ffff:172.17.0.1:48644 as vue-client-eda72037 (p2, c1, k60).
+1748375378: Client vue-client-eda72037 closed its connection.
+1748375378: New client connected from ::ffff:172.17.0.1:37876 as vue-client-24dc23f3 (p2, c1, k60).
+1748375443: Client vue-client-24dc23f3 closed its connection.
+1748375443: New client connected from ::ffff:172.17.0.1:35290 as vue-client-a9343cbd (p2, c1, k60).
+1748375478: Client vue-client-a9343cbd closed its connection.
+1748375479: New client connected from ::ffff:172.17.0.1:45140 as vue-client-df16625f (p2, c1, k60).
+1748375521: Client vue-client-df16625f closed its connection.
+1748375522: New client connected from ::ffff:172.17.0.1:35726 as vue-client-eea9e346 (p2, c1, k60).
+1748375691: Client vue-client-eea9e346 closed its connection.
+1748375691: New client connected from ::ffff:172.17.0.1:41050 as vue-client-f30e6a2e (p2, c1, k60).
+1748375869: Client vue-client-f30e6a2e closed its connection.
+1748375869: New client connected from ::ffff:172.17.0.1:35584 as vue-client-b70dba47 (p2, c1, k60).
+1748376009: Client vue-client-b70dba47 closed its connection.
+1748376009: New client connected from ::ffff:172.17.0.1:51646 as vue-client-a532bb1f (p2, c1, k60).
+1748376196: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748376241: Client vue-client-a532bb1f closed its connection.
+1748376241: New client connected from ::ffff:172.17.0.1:50764 as vue-client-167b513d (p2, c1, k60).
+1748377940: Client vue-client-167b513d closed its connection.
+1748377968: New client connected from ::ffff:172.17.0.1:53670 as vue-client-9e162412 (p2, c1, k60).
+1748377997: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748379798: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748380125: Client vue-client-9e162412 closed its connection.
+1748380125: New client connected from ::ffff:172.17.0.1:45486 as vue-client-1548461b (p2, c1, k60).
+1748380136: Client vue-client-1548461b closed its connection.
+1748380136: New client connected from ::ffff:172.17.0.1:45578 as vue-client-9e881c04 (p2, c1, k60).
+1748380382: Client vue-client-9e881c04 closed its connection.
+1748380382: New client connected from ::ffff:172.17.0.1:44146 as vue-client-92848e5b (p2, c1, k60).
+1748380443: Client vue-client-92848e5b closed its connection.
+1748380443: New client connected from ::ffff:172.17.0.1:60624 as vue-client-bbf5c2bb (p2, c1, k60).
+1748380476: Client vue-client-bbf5c2bb closed its connection.
+1748380476: New client connected from ::ffff:172.17.0.1:44120 as vue-client-8a5635dc (p2, c1, k60).
+1748380600: Client vue-client-8a5635dc closed its connection.
+1748380601: New client connected from ::ffff:172.17.0.1:45160 as vue-client-6411d910 (p2, c1, k60).
+1748380714: Client vue-client-6411d910 closed its connection.
+1748380715: New client connected from ::ffff:172.17.0.1:50270 as vue-client-77ba48c6 (p2, c1, k60).
+1748380776: Client vue-client-77ba48c6 closed its connection.
+1748380777: New client connected from ::ffff:172.17.0.1:59666 as vue-client-b1b18861 (p2, c1, k60).
+1748381599: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748383400: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748383732: Client vue-client-b1b18861 closed its connection.
+1748384015: mosquitto version 2.0.21 terminating
+1748384015: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748450780: mosquitto version 2.0.21 starting
+1748450780: Config loaded from /mosquitto/config/mosquitto.conf.
+1748450780: Opening ipv4 listen socket on port 1883.
+1748450780: Opening ipv6 listen socket on port 1883.
+1748450780: Opening websockets listen socket on port 9001.
+1748450780: mosquitto version 2.0.21 running
+1748450832: New connection from 172.17.0.1:46946 on port 1883.
+1748450832: New client connected from 172.17.0.1:46946 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1748451652: New client connected from ::ffff:172.17.0.1:54838 as vue-client-41f9ea14 (p2, c1, k60).
+1748452581: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748454382: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748456183: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748456269: Client vue-client-41f9ea14 closed its connection.
+1748456270: New client connected from ::ffff:172.17.0.1:49624 as vue-client-60455387 (p2, c1, k60).
+1748456671: Client vue-client-60455387 closed its connection.
+1748457134: New client connected from ::ffff:172.17.0.1:46942 as vue-client-e341d099 (p2, c1, k60).
+1748457984: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748458752: Client vue-client-e341d099 closed its connection.
+1748458772: New client connected from ::ffff:172.17.0.1:48196 as vue-client-549116d8 (p2, c1, k60).
+1748459785: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748460810: Client vue-client-549116d8 closed its connection.
+1748460893: New client connected from ::ffff:172.17.0.1:45874 as vue-client-ccc8eb4a (p2, c1, k60).
+1748461455: Client vue-client-ccc8eb4a closed its connection.
+1748461456: New client connected from ::ffff:172.17.0.1:38174 as vue-client-0cf7c220 (p2, c1, k60).
+1748461586: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748462233: Client vue-client-0cf7c220 closed its connection.
+1748462234: New client connected from ::ffff:172.17.0.1:54672 as vue-client-4063db62 (p2, c1, k60).
+1748462416: Client vue-client-4063db62 closed its connection.
+1748462416: New client connected from ::ffff:172.17.0.1:34784 as vue-client-bf0a9101 (p2, c1, k60).
+1748462517: Client vue-client-bf0a9101 closed its connection.
+1748462518: New client connected from ::ffff:172.17.0.1:38036 as vue-client-2a733e1b (p2, c1, k60).
+1748462567: Client vue-client-2a733e1b closed its connection.
+1748462568: New client connected from ::ffff:172.17.0.1:35428 as vue-client-80b8afc1 (p2, c1, k60).
+1748462877: Client vue-client-80b8afc1 closed its connection.
+1748462878: New client connected from ::ffff:172.17.0.1:52218 as vue-client-cc26cdc9 (p2, c1, k60).
+1748462896: Client vue-client-cc26cdc9 closed its connection.
+1748462897: New client connected from ::ffff:172.17.0.1:55902 as vue-client-d636b117 (p2, c1, k60).
+1748462910: Client vue-client-d636b117 closed its connection.
+1748462911: New client connected from ::ffff:172.17.0.1:59408 as vue-client-a9a379b1 (p2, c1, k60).
+1748463014: Client vue-client-a9a379b1 closed its connection.
+1748463022: New client connected from ::ffff:172.17.0.1:47828 as vue-client-b62afbc7 (p2, c1, k60).
+1748463053: Client vue-client-b62afbc7 closed its connection.
+1748463054: New client connected from ::ffff:172.17.0.1:58958 as vue-client-dfc73675 (p2, c1, k60).
+1748463073: Client vue-client-dfc73675 closed its connection.
+1748463074: New client connected from ::ffff:172.17.0.1:34476 as vue-client-7c2a1030 (p2, c1, k60).
+1748463161: Client vue-client-7c2a1030 closed its connection.
+1748463162: New client connected from ::ffff:172.17.0.1:56282 as vue-client-47e904c3 (p2, c1, k60).
+1748463387: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748465188: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748466989: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748468790: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748470554: Client vue-client-47e904c3 closed its connection.
+1748470562: Client shellyplusplugs-c82e1808801c closed its connection.
+1748534837: mosquitto version 2.0.21 starting
+1748534837: Config loaded from /mosquitto/config/mosquitto.conf.
+1748534837: Opening ipv4 listen socket on port 1883.
+1748534837: Opening ipv6 listen socket on port 1883.
+1748534837: Opening websockets listen socket on port 9001.
+1748534837: mosquitto version 2.0.21 running
+1748534881: New connection from 172.17.0.1:40272 on port 1883.
+1748534881: New client connected from 172.17.0.1:40272 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1748535192: New connection from 172.17.0.1:40980 on port 1883.
+1748535192: New client connected from 172.17.0.1:40980 as AvastHNS (p1, c1, k10).
+1748535192: Client AvastHNS disconnected.
+1748535192: New connection from 172.17.0.1:40986 on port 1883.
+1748535192: New client connected from 172.17.0.1:40986 as AvastHNS (p2, c1, k10).
+1748535192: Client AvastHNS disconnected.
+1748535192: New connection from 172.17.0.1:40998 on port 1883.
+1748535192: New client connected from 172.17.0.1:40998 as AvastHNS (p5, c1, k10).
+1748535192: Client AvastHNS disconnected.
+1748535194: New connection from 172.17.0.1:41004 on port 1883.
+1748535194: New client connected from 172.17.0.1:41004 as AvastHNS (p5, c1, k13).
+1748535206: Client AvastHNS disconnected.
+1748535631: New client connected from ::ffff:172.17.0.1:59662 as vue-client-8c65ff00 (p2, c1, k60).
+1748536330: Client vue-client-8c65ff00 closed its connection.
+1748536339: New client connected from ::ffff:172.17.0.1:57012 as vue-client-3ad65de4 (p2, c1, k60).
+1748536380: Client vue-client-3ad65de4 closed its connection.
+1748536474: New client connected from ::ffff:172.17.0.1:46368 as vue-client-f242f9f3 (p2, c1, k60).
+1748536638: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748538439: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748540240: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748542041: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748543842: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748545643: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748547444: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748549245: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748551046: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748552847: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748554648: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748556449: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748556808: Client vue-client-f242f9f3 closed its connection.
+1748556820: Client shellyplusplugs-c82e1808801c closed its connection.
+1748621631: mosquitto version 2.0.21 starting
+1748621631: Config loaded from /mosquitto/config/mosquitto.conf.
+1748621631: Opening ipv4 listen socket on port 1883.
+1748621631: Opening ipv6 listen socket on port 1883.
+1748621631: Opening websockets listen socket on port 9001.
+1748621631: mosquitto version 2.0.21 running
+1748621678: New connection from 172.17.0.1:41010 on port 1883.
+1748621678: New client connected from 172.17.0.1:41010 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1748621762: New client connected from ::ffff:172.17.0.1:57588 as vue-client-54109837 (p2, c1, k60).
+1748623432: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748623671: Client vue-client-54109837 closed its connection.
+1748623672: New client connected from ::ffff:172.17.0.1:36906 as vue-client-62ed8ca3 (p2, c1, k60).
+1748624495: Client vue-client-62ed8ca3 closed its connection.
+1748624495: New client connected from ::ffff:172.17.0.1:32986 as vue-client-b2cca557 (p2, c1, k60).
+1748625233: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748626307: Client vue-client-b2cca557 closed its connection.
+1748626307: New client connected from ::ffff:172.17.0.1:37858 as vue-client-a50c4467 (p2, c1, k60).
+1748626554: Client vue-client-a50c4467 closed its connection.
+1748626555: New client connected from ::ffff:172.17.0.1:36638 as vue-client-ea41f95c (p2, c1, k60).
+1748626654: Client vue-client-ea41f95c closed its connection.
+1748626655: New client connected from ::ffff:172.17.0.1:36868 as vue-client-8601196d (p2, c1, k60).
+1748627034: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748628835: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748628938: mosquitto version 2.0.21 terminating
+1748628938: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748628938: Client vue-client-8601196d closed its connection.
+1748693773: mosquitto version 2.0.21 starting
+1748693773: Config loaded from /mosquitto/config/mosquitto.conf.
+1748693773: Opening ipv4 listen socket on port 1883.
+1748693773: Opening ipv6 listen socket on port 1883.
+1748693773: Opening websockets listen socket on port 9001.
+1748693773: mosquitto version 2.0.21 running
+1748693786: New connection from 172.17.0.1:51782 on port 1883.
+1748693786: New client connected from 172.17.0.1:51782 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1748694162: New client connected from ::ffff:172.17.0.1:39020 as vue-client-39d8dd3d (p2, c1, k60).
+1748695574: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748697375: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748699176: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748700640: Client vue-client-39d8dd3d closed its connection.
+1748700640: New client connected from ::ffff:172.17.0.1:42466 as vue-client-97918974 (p2, c1, k60).
+1748700929: Client vue-client-97918974 closed its connection.
+1748700930: New client connected from ::ffff:172.17.0.1:49032 as vue-client-7b2e3ed2 (p2, c1, k60).
+1748700977: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748701102: Client vue-client-7b2e3ed2 closed its connection.
+1748701103: New client connected from ::ffff:172.17.0.1:54400 as vue-client-4a597fc7 (p2, c1, k60).
+1748701239: Client vue-client-4a597fc7 closed its connection.
+1748701239: New client connected from ::ffff:172.17.0.1:54760 as vue-client-2e64f268 (p2, c1, k60).
+1748701745: Client vue-client-2e64f268 closed its connection.
+1748701745: New client connected from ::ffff:172.17.0.1:39484 as vue-client-6fba8dae (p2, c1, k60).
+1748702778: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748703969: New client connected from ::ffff:172.17.0.1:56306 as vue-client-3b2dd12a (p2, c1, k60).
+1748704579: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748704584: Client vue-client-6fba8dae closed its connection.
+1748704584: Client vue-client-3b2dd12a closed its connection.
+1748704585: New client connected from ::ffff:172.17.0.1:43884 as vue-client-3bc664af (p2, c1, k60).
+1748705222: Client vue-client-3bc664af closed its connection.
+1748705223: New client connected from ::ffff:172.17.0.1:51102 as vue-client-a2a64b65 (p2, c1, k60).
+1748706380: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748708085: New connection from 172.17.0.1:46800 on port 1883.
+1748708085: New client connected from 172.17.0.1:46800 as AvastHNS (p1, c1, k10).
+1748708085: Client AvastHNS disconnected.
+1748708085: New connection from 172.17.0.1:46814 on port 1883.
+1748708085: New client connected from 172.17.0.1:46814 as AvastHNS (p2, c1, k10).
+1748708085: Client AvastHNS disconnected.
+1748708085: New connection from 172.17.0.1:46820 on port 1883.
+1748708085: New client connected from 172.17.0.1:46820 as AvastHNS (p5, c1, k10).
+1748708085: Client AvastHNS disconnected.
+1748708087: New connection from 172.17.0.1:46828 on port 1883.
+1748708087: New client connected from 172.17.0.1:46828 as AvastHNS (p5, c1, k13).
+1748708099: Client AvastHNS disconnected.
+1748708181: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748709982: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748711621: Client vue-client-a2a64b65 closed its connection.
+1748711783: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748712270: mosquitto version 2.0.21 terminating
+1748712270: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748774848: mosquitto version 2.0.21 starting
+1748774848: Config loaded from /mosquitto/config/mosquitto.conf.
+1748774848: Opening ipv4 listen socket on port 1883.
+1748774848: Opening ipv6 listen socket on port 1883.
+1748774848: Opening websockets listen socket on port 9001.
+1748774848: mosquitto version 2.0.21 running
+1748774848: New connection from 172.17.0.1:37082 on port 1883.
+1748774848: New client connected from 172.17.0.1:37082 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1748775975: New client connected from ::ffff:172.17.0.1:51322 as vue-client-ac3c40d5 (p2, c1, k60).
+1748776649: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748778450: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748780251: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748782052: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748783853: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748785654: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748787455: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748789256: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748790971: Client vue-client-ac3c40d5 closed its connection.
+1748790998: New client connected from ::ffff:172.17.0.1:45998 as vue-client-2210142f (p2, c1, k60).
+1748791057: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748791797: Client vue-client-2210142f closed its connection.
+1748791799: New client connected from ::ffff:172.17.0.1:56598 as vue-client-5936afea (p2, c1, k60).
+1748791889: Client vue-client-5936afea closed its connection.
+1748791890: New client connected from ::ffff:172.17.0.1:59128 as vue-client-b2144650 (p2, c1, k60).
+1748792152: Client vue-client-b2144650 closed its connection.
+1748792153: New client connected from ::ffff:172.17.0.1:36408 as vue-client-79fa2ed9 (p2, c1, k60).
+1748792336: Client vue-client-79fa2ed9 closed its connection.
+1748792337: New client connected from ::ffff:172.17.0.1:52902 as vue-client-9f583481 (p2, c1, k60).
+1748792844: Client vue-client-9f583481 closed its connection.
+1748792845: New client connected from ::ffff:172.17.0.1:58902 as vue-client-47deac71 (p2, c1, k60).
+1748792858: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748792871: New client connected from ::ffff:172.17.0.1:58554 as vue-client-de9f41ef (p2, c1, k60).
+1748792886: Client vue-client-47deac71 closed its connection.
+1748792886: Client vue-client-de9f41ef closed its connection.
+1748792888: New client connected from ::ffff:172.17.0.1:43244 as vue-client-b6eaf0f2 (p2, c1, k60).
+1748793138: Client vue-client-b6eaf0f2 closed its connection.
+1748793139: New client connected from ::ffff:172.17.0.1:53568 as vue-client-b8f96e3b (p2, c1, k60).
+1748793282: Client vue-client-b8f96e3b closed its connection.
+1748793283: New client connected from ::ffff:172.17.0.1:40958 as vue-client-21a030f7 (p2, c1, k60).
+1748794659: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748794738: New connection from 172.17.0.1:42124 on port 1883.
+1748794738: New client connected from 172.17.0.1:42124 as AvastHNS (p1, c1, k10).
+1748794738: Client AvastHNS disconnected.
+1748794738: New connection from 172.17.0.1:42126 on port 1883.
+1748794738: New client connected from 172.17.0.1:42126 as AvastHNS (p2, c1, k10).
+1748794738: Client AvastHNS disconnected.
+1748794738: New connection from 172.17.0.1:42128 on port 1883.
+1748794738: New client connected from 172.17.0.1:42128 as AvastHNS (p5, c1, k10).
+1748794738: Client AvastHNS disconnected.
+1748794740: New connection from 172.17.0.1:42144 on port 1883.
+1748794740: New client connected from 172.17.0.1:42144 as AvastHNS (p5, c1, k13).
+1748794752: Client AvastHNS disconnected.
+1748796460: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748798261: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748799411: Client vue-client-21a030f7 closed its connection.
+1748799412: New client connected from ::ffff:172.17.0.1:53980 as vue-client-c7c26b00 (p2, c1, k60).
+1748799613: Client vue-client-c7c26b00 closed its connection.
+1748799614: New client connected from ::ffff:172.17.0.1:42332 as vue-client-12cd647b (p2, c1, k60).
+1748799693: Client vue-client-12cd647b closed its connection.
+1748799694: New client connected from ::ffff:172.17.0.1:53414 as vue-client-c61120af (p2, c1, k60).
+1748799890: Client vue-client-c61120af closed its connection.
+1748799891: New client connected from ::ffff:172.17.0.1:49594 as vue-client-99f9bb2d (p2, c1, k60).
+1748799967: Client vue-client-99f9bb2d closed its connection.
+1748799967: New client connected from ::ffff:172.17.0.1:39134 as vue-client-1c8850f6 (p2, c1, k60).
+1748800062: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748800382: Client vue-client-1c8850f6 closed its connection.
+1748800383: New client connected from ::ffff:172.17.0.1:40960 as vue-client-0e427ef3 (p2, c1, k60).
+1748801057: Client vue-client-0e427ef3 closed its connection.
+1748801058: New client connected from ::ffff:172.17.0.1:54820 as vue-client-2ddc2f65 (p2, c1, k60).
+1748801277: Client vue-client-2ddc2f65 closed its connection.
+1748801478: New client connected from ::ffff:172.17.0.1:53524 as vue-client-03dc5bb1 (p2, c1, k60).
+1748801863: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748802779: Client vue-client-03dc5bb1 closed its connection.
+1748802780: New client connected from ::ffff:172.17.0.1:36956 as vue-client-da378fa1 (p2, c1, k60).
+1748803054: Client vue-client-da378fa1 closed its connection.
+1748803055: New client connected from ::ffff:172.17.0.1:35080 as vue-client-be42bef5 (p2, c1, k60).
+1748803664: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748804064: Client vue-client-be42bef5 closed its connection.
+1748804065: New client connected from ::ffff:172.17.0.1:48842 as vue-client-d9dfd8c4 (p2, c1, k60).
+1748805216: New client connected from ::ffff:172.17.0.1:33232 as vue-client-e2aa0c66 (p2, c1, k60).
+1748805292: New client connected from ::ffff:172.17.0.1:55666 as vue-client-0024f184 (p2, c1, k60).
+1748805465: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748807266: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748808615: Client vue-client-d9dfd8c4 closed its connection.
+1748808615: Client vue-client-0024f184 closed its connection.
+1748808615: Client vue-client-e2aa0c66 closed its connection.
+1748808616: New client connected from ::ffff:172.17.0.1:41188 as vue-client-0289217b (p2, c1, k60).
+1748809067: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748809742: New connection from 172.17.0.1:38426 on port 1883.
+1748809742: New client connected from 172.17.0.1:38426 as cliente01 (p5, c1, k60).
+1748809829: New client connected from ::ffff:172.17.0.1:50302 as vue-client-afb6262e (p2, c1, k60).
+1748809834: New client connected from ::ffff:172.17.0.1:46148 as vue-client-ebab5494 (p2, c1, k60).
+1748810323: Client vue-client-0289217b closed its connection.
+1748810323: Client vue-client-ebab5494 closed its connection.
+1748810323: Client vue-client-afb6262e closed its connection.
+1748810324: New client connected from ::ffff:172.17.0.1:58532 as vue-client-6f2081f9 (p2, c1, k60).
+1748810417: Client vue-client-6f2081f9 closed its connection.
+1748810418: New client connected from ::ffff:172.17.0.1:57622 as vue-client-faa228d0 (p2, c1, k60).
+1748810868: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748810919: Client vue-client-faa228d0 closed its connection.
+1748810920: New client connected from ::ffff:172.17.0.1:58922 as vue-client-ac2d5782 (p2, c1, k60).
+1748811161: Client vue-client-ac2d5782 closed its connection.
+1748811161: New client connected from ::ffff:172.17.0.1:47238 as vue-client-6e5c037d (p2, c1, k60).
+1748811481: Client cliente01 has exceeded timeout, disconnecting.
+1748811485: New connection from 172.17.0.1:38126 on port 1883.
+1748811485: New client connected from 172.17.0.1:38126 as cliente01 (p5, c1, k60).
+1748811820: Client cliente01 has exceeded timeout, disconnecting.
+1748811824: New connection from 172.17.0.1:34968 on port 1883.
+1748811824: New client connected from 172.17.0.1:34968 as cliente01 (p5, c1, k60).
+1748811826: Client vue-client-6e5c037d closed its connection.
+1748811827: New client connected from ::ffff:172.17.0.1:43146 as vue-client-5e0bbbbe (p2, c1, k60).
+1748811853: Client vue-client-5e0bbbbe closed its connection.
+1748811854: New client connected from ::ffff:172.17.0.1:36510 as vue-client-f944f7b8 (p2, c1, k60).
+1748811905: Client vue-client-f944f7b8 closed its connection.
+1748811906: New client connected from ::ffff:172.17.0.1:58152 as vue-client-ff6101fb (p2, c1, k60).
+1748812239: Client cliente01 has exceeded timeout, disconnecting.
+1748812243: New connection from 172.17.0.1:43448 on port 1883.
+1748812243: New client connected from 172.17.0.1:43448 as cliente01 (p5, c1, k60).
+1748812659: Client cliente01 has exceeded timeout, disconnecting.
+1748812663: New connection from 172.17.0.1:48406 on port 1883.
+1748812663: New client connected from 172.17.0.1:48406 as cliente01 (p5, c1, k60).
+1748812669: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748813139: Client cliente01 has exceeded timeout, disconnecting.
+1748813143: New connection from 172.17.0.1:36930 on port 1883.
+1748813143: New client connected from 172.17.0.1:36930 as cliente01 (p5, c1, k60).
+1748813679: Client cliente01 has exceeded timeout, disconnecting.
+1748813683: New connection from 172.17.0.1:42018 on port 1883.
+1748813683: New client connected from 172.17.0.1:42018 as cliente01 (p5, c1, k60).
+1748813775: Client vue-client-ff6101fb closed its connection.
+1748813776: New client connected from ::ffff:172.17.0.1:46172 as vue-client-11c90e58 (p2, c1, k60).
+1748814099: Client cliente01 has exceeded timeout, disconnecting.
+1748814103: New connection from 172.17.0.1:54258 on port 1883.
+1748814103: New client connected from 172.17.0.1:54258 as cliente01 (p5, c1, k60).
+1748814278: Client vue-client-11c90e58 closed its connection.
+1748814279: New client connected from ::ffff:172.17.0.1:59818 as vue-client-6fa9e5f0 (p2, c1, k60).
+1748814470: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748814519: Client cliente01 has exceeded timeout, disconnecting.
+1748814523: New connection from 172.17.0.1:40488 on port 1883.
+1748814523: New client connected from 172.17.0.1:40488 as cliente01 (p5, c1, k60).
+1748814850: New client connected from ::ffff:172.17.0.1:59978 as vue-client-3363334a (p2, c1, k60).
+1748814939: Client cliente01 has exceeded timeout, disconnecting.
+1748814943: New connection from 172.17.0.1:57976 on port 1883.
+1748814943: New client connected from 172.17.0.1:57976 as cliente01 (p5, c1, k60).
+1748815539: Client cliente01 has exceeded timeout, disconnecting.
+1748815543: New connection from 172.17.0.1:58218 on port 1883.
+1748815543: New client connected from 172.17.0.1:58218 as cliente01 (p5, c1, k60).
+1748816019: Client cliente01 has exceeded timeout, disconnecting.
+1748816023: New connection from 172.17.0.1:46100 on port 1883.
+1748816023: New client connected from 172.17.0.1:46100 as cliente01 (p5, c1, k60).
+1748816114: Client cliente01 has exceeded timeout, disconnecting.
+1748816117: Client vue-client-3363334a closed its connection.
+1748816117: Client vue-client-6fa9e5f0 closed its connection.
+1748816151: Client shellyplusplugs-c82e1808801c closed its connection.
+1748880597: mosquitto version 2.0.21 starting
+1748880597: Config loaded from /mosquitto/config/mosquitto.conf.
+1748880597: Opening ipv4 listen socket on port 1883.
+1748880597: Opening ipv6 listen socket on port 1883.
+1748880597: Opening websockets listen socket on port 9001.
+1748880597: mosquitto version 2.0.21 running
+1748880655: New connection from 172.17.0.1:46956 on port 1883.
+1748880655: New client connected from 172.17.0.1:46956 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1748880720: New client connected from ::ffff:172.17.0.1:45832 as vue-client-ee59ff7d (p2, c1, k60).
+1748881166: New connection from 172.17.0.1:35974 on port 1883.
+1748881166: New client connected from 172.17.0.1:35974 as AvastHNS (p1, c1, k10).
+1748881166: Client AvastHNS disconnected.
+1748881166: New connection from 172.17.0.1:35984 on port 1883.
+1748881166: New client connected from 172.17.0.1:35984 as AvastHNS (p2, c1, k10).
+1748881166: Client AvastHNS disconnected.
+1748881166: New connection from 172.17.0.1:36000 on port 1883.
+1748881166: New client connected from 172.17.0.1:36000 as AvastHNS (p5, c1, k10).
+1748881166: Client AvastHNS disconnected.
+1748881168: New connection from 172.17.0.1:58594 on port 1883.
+1748881168: New client connected from 172.17.0.1:58594 as AvastHNS (p5, c1, k13).
+1748881180: Client AvastHNS disconnected.
+1748881945: Client vue-client-ee59ff7d closed its connection.
+1748881946: New client connected from ::ffff:172.17.0.1:36930 as vue-client-be90c933 (p2, c1, k60).
+1748882198: Client vue-client-be90c933 closed its connection.
+1748882199: New client connected from ::ffff:172.17.0.1:38168 as vue-client-dfce2797 (p2, c1, k60).
+1748882398: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748882664: Client vue-client-dfce2797 closed its connection.
+1748882689: New client connected from ::ffff:172.17.0.1:42802 as vue-client-29772433 (p2, c1, k60).
+1748884199: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748884401: Client vue-client-29772433 closed its connection.
+1748884401: New client connected from ::ffff:172.17.0.1:37074 as vue-client-b0fbaa68 (p2, c1, k60).
+1748884411: Client vue-client-b0fbaa68 closed its connection.
+1748884411: New client connected from ::ffff:172.17.0.1:37342 as vue-client-479316ed (p2, c1, k60).
+1748884490: Client vue-client-479316ed closed its connection.
+1748884491: New client connected from ::ffff:172.17.0.1:53878 as vue-client-e6c88a4a (p2, c1, k60).
+1748884495: Client vue-client-e6c88a4a closed its connection.
+1748884496: New client connected from ::ffff:172.17.0.1:53884 as vue-client-b097600f (p2, c1, k60).
+1748884698: Client vue-client-b097600f closed its connection.
+1748884699: New client connected from ::ffff:172.17.0.1:38774 as vue-client-ed6657c1 (p2, c1, k60).
+1748885420: Client vue-client-ed6657c1 closed its connection.
+1748885421: New client connected from ::ffff:172.17.0.1:60420 as vue-client-f2017121 (p2, c1, k60).
+1748886000: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748886995: Client vue-client-f2017121 closed its connection.
+1748886998: New client connected from ::ffff:172.17.0.1:39588 as vue-client-da119bcf (p2, c1, k60).
+1748887071: Client vue-client-da119bcf closed its connection.
+1748887072: New client connected from ::ffff:172.17.0.1:49196 as vue-client-21e323aa (p2, c1, k60).
+1748887151: Client vue-client-21e323aa closed its connection.
+1748887152: New client connected from ::ffff:172.17.0.1:34264 as vue-client-46132ac7 (p2, c1, k60).
+1748887801: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748889602: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748891051: New client connected from ::ffff:172.17.0.1:53834 as vue-client-3f798181 (p2, c1, k60).
+1748891073: New client connected from ::ffff:172.17.0.1:41568 as vue-client-e6da1093 (p2, c1, k60).
+1748891403: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748891411: Client vue-client-46132ac7 closed its connection.
+1748891411: Client vue-client-e6da1093 closed its connection.
+1748891411: Client vue-client-3f798181 closed its connection.
+1748891411: New client connected from ::ffff:172.17.0.1:53166 as vue-client-00df0a28 (p2, c1, k60).
+1748893204: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748893617: New client connected from ::ffff:172.17.0.1:46160 as vue-client-637513f6 (p2, c1, k60).
+1748894344: Client vue-client-00df0a28 closed its connection.
+1748894344: Client vue-client-637513f6 closed its connection.
+1748894345: New client connected from ::ffff:172.17.0.1:59118 as vue-client-c2c27e2a (p2, c1, k60).
+1748894373: Client vue-client-c2c27e2a closed its connection.
+1748894374: New client connected from ::ffff:172.17.0.1:57838 as vue-client-e5629595 (p2, c1, k60).
+1748894409: Client vue-client-e5629595 closed its connection.
+1748894410: New client connected from ::ffff:172.17.0.1:36890 as vue-client-fa62a463 (p2, c1, k60).
+1748894427: Client vue-client-fa62a463 closed its connection.
+1748894428: New client connected from ::ffff:172.17.0.1:57386 as vue-client-29a04bec (p2, c1, k60).
+1748895005: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748895645: New client connected from ::ffff:172.17.0.1:36218 as vue-client-1597f2ee (p2, c1, k60).
+1748895786: New client connected from ::ffff:172.17.0.1:57778 as vue-client-c25dcc94 (p2, c1, k60).
+1748895866: New client connected from ::ffff:172.17.0.1:40890 as vue-client-cf5e70cd (p2, c1, k60).
+1748895967: Client vue-client-29a04bec closed its connection.
+1748895967: Client vue-client-cf5e70cd closed its connection.
+1748895967: Client vue-client-c25dcc94 closed its connection.
+1748895967: Client vue-client-1597f2ee closed its connection.
+1748895968: New client connected from ::ffff:172.17.0.1:33652 as vue-client-bd236a43 (p2, c1, k60).
+1748896806: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748898607: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748900103: Client vue-client-bd236a43 closed its connection.
+1748900105: New client connected from ::ffff:172.17.0.1:51988 as vue-client-9927f318 (p2, c1, k60).
+1748900125: Client vue-client-9927f318 closed its connection.
+1748900153: New client connected from ::ffff:172.17.0.1:55834 as vue-client-394406f6 (p2, c1, k60).
+1748900408: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748901825: Client vue-client-394406f6 closed its connection.
+1748901840: Client shellyplusplugs-c82e1808801c closed its connection.
+1748967403: mosquitto version 2.0.21 starting
+1748967403: Config loaded from /mosquitto/config/mosquitto.conf.
+1748967403: Opening ipv4 listen socket on port 1883.
+1748967403: Opening ipv6 listen socket on port 1883.
+1748967403: Opening websockets listen socket on port 9001.
+1748967403: mosquitto version 2.0.21 running
+1748967449: New connection from 172.17.0.1:35808 on port 1883.
+1748967449: New client connected from 172.17.0.1:35808 as shellyplusplugs-c82e1808801c (p2, c1, k60).
+1748967772: New connection from 172.17.0.1:46034 on port 1883.
+1748967772: New client connected from 172.17.0.1:46034 as AvastHNS (p1, c1, k10).
+1748967772: Client AvastHNS disconnected.
+1748967772: New connection from 172.17.0.1:46038 on port 1883.
+1748967772: New client connected from 172.17.0.1:46038 as AvastHNS (p2, c1, k10).
+1748967772: Client AvastHNS disconnected.
+1748967772: New connection from 172.17.0.1:46040 on port 1883.
+1748967772: New client connected from 172.17.0.1:46040 as AvastHNS (p5, c1, k10).
+1748967772: Client AvastHNS disconnected.
+1748967774: New connection from 172.17.0.1:46046 on port 1883.
+1748967774: New client connected from 172.17.0.1:46046 as AvastHNS (p5, c1, k13).
+1748967786: Client AvastHNS disconnected.
+1748967867: New client connected from ::ffff:172.17.0.1:48852 as vue-client-f1a0530a (p2, c1, k60).
+1748969204: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748970689: Client vue-client-f1a0530a closed its connection.
+1748971005: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748972007: New client connected from ::ffff:172.17.0.1:59016 as vue-client-28a9069c (p2, c1, k60).
+1748972806: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748973105: New connection from 172.17.0.1:48834 on port 1883.
+1748973105: New client connected from 172.17.0.1:48834 as cliente01 (p5, c1, k60).
+1748973125: New client connected from ::ffff:172.17.0.1:32966 as vue-client-c3d42919 (p2, c1, k60).
+1748973128: New client connected from ::ffff:172.17.0.1:47326 as vue-client-a547e9e4 (p2, c1, k60).
+1748973171: New client connected from ::ffff:172.17.0.1:37250 as vue-client-d9e47935 (p2, c1, k60).
+1748973175: Client vue-client-28a9069c closed its connection.
+1748973175: Client vue-client-d9e47935 closed its connection.
+1748973175: Client vue-client-a547e9e4 closed its connection.
+1748973175: Client vue-client-c3d42919 closed its connection.
+1748973176: New client connected from ::ffff:172.17.0.1:37266 as vue-client-126e6e51 (p2, c1, k60).
+1748973296: New client connected from ::ffff:172.17.0.1:48764 as vue-client-48003f8d (p2, c1, k60).
+1748973577: Client cliente01 has exceeded timeout, disconnecting.
+1748973581: New connection from 172.17.0.1:54138 on port 1883.
+1748973581: New client connected from 172.17.0.1:54138 as cliente01 (p5, c1, k60).
+1748973590: Client vue-client-126e6e51 closed its connection.
+1748973590: Client vue-client-48003f8d closed its connection.
+1748973591: New client connected from ::ffff:172.17.0.1:47528 as vue-client-df3c8b23 (p2, c1, k60).
+1748973967: Client vue-client-df3c8b23 closed its connection.
+1748973968: New client connected from ::ffff:172.17.0.1:55622 as vue-client-c3e71f9d (p2, c1, k60).
+1748974033: New client connected from ::ffff:172.17.0.1:57166 as vue-client-f648f974 (p2, c1, k60).
+1748974038: Client vue-client-c3e71f9d closed its connection.
+1748974038: Client vue-client-f648f974 closed its connection.
+1748974039: New client connected from ::ffff:172.17.0.1:38460 as vue-client-96219f4a (p2, c1, k60).
+1748974057: Client cliente01 has exceeded timeout, disconnecting.
+1748974061: New connection from 172.17.0.1:45362 on port 1883.
+1748974061: New client connected from 172.17.0.1:45362 as cliente01 (p5, c1, k60).
+1748974282: Client vue-client-96219f4a closed its connection.
+1748974283: New client connected from ::ffff:172.17.0.1:50230 as vue-client-b1b2732c (p2, c1, k60).
+1748974597: Client cliente01 has exceeded timeout, disconnecting.
+1748974601: New connection from 172.17.0.1:43640 on port 1883.
+1748974601: New client connected from 172.17.0.1:43640 as cliente01 (p5, c1, k60).
+1748974607: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748975197: Client cliente01 has exceeded timeout, disconnecting.
+1748975201: New connection from 172.17.0.1:58180 on port 1883.
+1748975201: New client connected from 172.17.0.1:58180 as cliente01 (p5, c1, k60).
+1748975677: Client cliente01 has exceeded timeout, disconnecting.
+1748975681: New connection from 172.17.0.1:58976 on port 1883.
+1748975681: New client connected from 172.17.0.1:58976 as cliente01 (p5, c1, k60).
+1748976408: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748976457: Client cliente01 has exceeded timeout, disconnecting.
+1748976461: New connection from 172.17.0.1:36742 on port 1883.
+1748976461: New client connected from 172.17.0.1:36742 as cliente01 (p5, c1, k60).
+1748976877: Client cliente01 has exceeded timeout, disconnecting.
+1748976881: New connection from 172.17.0.1:57670 on port 1883.
+1748976881: New client connected from 172.17.0.1:57670 as cliente01 (p5, c1, k60).
+1748977357: Client cliente01 has exceeded timeout, disconnecting.
+1748977361: New connection from 172.17.0.1:43438 on port 1883.
+1748977361: New client connected from 172.17.0.1:43438 as cliente01 (p5, c1, k60).
+1748977837: Client cliente01 has exceeded timeout, disconnecting.
+1748977841: New connection from 172.17.0.1:59874 on port 1883.
+1748977841: New client connected from 172.17.0.1:59874 as cliente01 (p5, c1, k60).
+1748978209: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748978317: Client cliente01 has exceeded timeout, disconnecting.
+1748978321: New connection from 172.17.0.1:41468 on port 1883.
+1748978321: New client connected from 172.17.0.1:41468 as cliente01 (p5, c1, k60).
+1748979097: Client cliente01 has exceeded timeout, disconnecting.
+1748979101: New connection from 172.17.0.1:35258 on port 1883.
+1748979101: New client connected from 172.17.0.1:35258 as cliente01 (p5, c1, k60).
+1748979192: Client cliente01 has exceeded timeout, disconnecting.
+1748980010: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748980128: Client vue-client-b1b2732c closed its connection.
+1748980128: New client connected from ::ffff:172.17.0.1:49256 as vue-client-940deb43 (p2, c1, k60).
+1748981195: Client vue-client-940deb43 closed its connection.
+1748981550: New client connected from ::ffff:172.17.0.1:58178 as vue-client-b117af8e (p2, c1, k60).
+1748981811: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748982480: Client vue-client-b117af8e closed its connection.
+1748982480: New client connected from ::ffff:172.17.0.1:35122 as vue-client-836e16bd (p2, c1, k60).
+1748982675: Client vue-client-836e16bd closed its connection.
+1748982676: New client connected from ::ffff:172.17.0.1:58176 as vue-client-ea50fc76 (p2, c1, k60).
+1748982890: Client vue-client-ea50fc76 closed its connection.
+1748982891: New client connected from ::ffff:172.17.0.1:59802 as vue-client-25aba05a (p2, c1, k60).
+1748983612: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748984363: Client vue-client-25aba05a closed its connection.
+1748984363: New client connected from ::ffff:172.17.0.1:37064 as vue-client-cb19d212 (p2, c1, k60).
+1748984482: Client vue-client-cb19d212 closed its connection.
+1748984483: New client connected from ::ffff:172.17.0.1:45376 as vue-client-b56ac4fb (p2, c1, k60).
+1748984593: Client vue-client-b56ac4fb closed its connection.
+1748984594: New client connected from ::ffff:172.17.0.1:56630 as vue-client-6dde38dd (p2, c1, k60).
+1748985413: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748987214: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748987898: Client vue-client-6dde38dd closed its connection.
+1748987909: Client shellyplusplugs-c82e1808801c closed its connection.

@@ -1,0 +1,18 @@
+-- ENCENDER --
+shellyplusplugs-c82e1808801c/rpc
+
+{
+  "id": 2,
+  "src": "mqttx",
+  "method": "Switch.Set",
+  "params": {
+    "id": 0,
+    "on": true
+  }
+}
+
+
+-- ANNOUNCE -- 
+sub -> shellies/announce
+topic -> shellies/command
+payload -> announce
